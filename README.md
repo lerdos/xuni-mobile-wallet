@@ -1,7 +1,7 @@
 # XuniWallet - A mobile, native XUNI wallet
 
 ### Initial Setup
-* git clone https://github.com/plenteum/plenteum-mobile-wallet
+* git clone https://github.com/lerdos/xuni-mobile-wallet
 * cd xuni-mobile-wallet
 * yarn install
 
